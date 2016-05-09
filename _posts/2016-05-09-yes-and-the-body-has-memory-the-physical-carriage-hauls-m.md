@@ -5,18 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Dear future homestay family in Cape Town, SA,'
-datePublished: '2016-05-09T07:57:46.851Z'
-dateModified: '2016-05-09T07:57:31.510Z'
+datePublished: '2016-05-09T07:59:02.174Z'
+dateModified: '2016-05-09T07:57:49.039Z'
+title: '“Yes, and the body has memory. The physical carriage hauls more than its weight. The body is the threshold across which each objectionable call passes into consciousness—all the unintimidated, unblinking, and unflappable resilience does not erase the moments lived through, even as we are eternally stupid or everlastingly optimistic, so ready to be inside, among, a part of the games.”'
+author: []
+sourcePath: _posts/2016-05-09-yes-and-the-body-has-memory-the-physical-carriage-hauls-m.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: '“Yes, and the body has memory. The physical carriage hauls more than its weight. The body is the threshold across which each objectionable call passes into consciousness—all the unintimidated, unblinking, and unflappable resilience does not erase the moments lived through, even as we are eternally stupid or everlastingly optimistic, so ready to be inside, among, a part of the games.”'
-author: []
 starred: false
-sourcePath: _posts/2016-05-09-yes-and-the-body-has-memory-the-physical-carriage-hauls-m.md
 url: yes-and-the-body-has-memory-the-physical-carriage-hauls-m/index.html
 _type: Article
 
