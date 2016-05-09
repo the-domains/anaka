@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[anaka]]></title>
-        <description><![CDATA[anaka]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[elev8 .*. anünaka]]></title>
+        <description><![CDATA[elev8 .*. anünaka]]></description>
+        <link>https://thegrid.ai/anaka/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 07:58:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 May 2016 07:59:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/anaka/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[“Yes, and the body has memory. The physical carriage hauls more than its weight. The body is the threshold across which each objectionable call passes into consciousness—all the unintimidated, unblinking, and unflappable resilience does not erase the moments lived through, even as we are eternally stupid or everlastingly optimistic, so ready to be inside, among, a part of the games.”]]></title>
             <description><![CDATA[<article><h1>“Yes, and the body has memory. The physical carriage hauls more than its weight. The body is the threshold across which each objectionable call passes into consciousness—all the unintimidated, unblinking, and unflappable resilience does not erase the moments lived through, even as we are eternally stupid or everlastingly optimistic, so ready to be inside, among, a part of the games.”</h1><p>Dear future homestay family in Cape Town, SA,</p></article>]]></description>
-            <link>undefinedyes-and-the-body-has-memory-the-physical-carriage-hauls-m/index.html</link>
+            <link>https://thegrid.ai/anaka/yes-and-the-body-has-memory-the-physical-carriage-hauls-m/index.html</link>
             <guid isPermaLink="false">11bd6f07-f44d-4846-8ef0-df6ce877d4e3</guid>
-            <pubDate>Mon, 09 May 2016 07:57:46 GMT</pubDate>
+            <pubDate>Mon, 09 May 2016 07:59:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
