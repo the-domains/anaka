@@ -2,6 +2,7 @@ name: anaka
 favicon: null
 layout_spectrum: 0.7740007201209664
 typography_spectrum: 0.1364284527953714
+title: 'elev8 .*. anünaka'
 cta:
   domain: null
   bucket: null
